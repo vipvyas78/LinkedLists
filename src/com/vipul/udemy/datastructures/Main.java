@@ -27,6 +27,8 @@ public class Main {
 
         System.out.println("JDK Linked List = " + jdkLinkedList.toString());
 
+        System.out.println("First Element=" + jdkLinkedList.getFirst().toString());
+
 
 
         mylist.addToFront(vipv);
